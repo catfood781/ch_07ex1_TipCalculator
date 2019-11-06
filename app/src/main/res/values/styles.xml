@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Material layout is only available on later versions.
+    //I discovered this in my messing around attempts
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar" />
+</resources>

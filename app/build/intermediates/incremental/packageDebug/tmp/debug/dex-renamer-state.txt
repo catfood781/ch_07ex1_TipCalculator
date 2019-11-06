@@ -1,0 +1,4 @@
+#Wed Nov 06 09:09:48 PST 2019
+base.0=C\:\\MurachAndroidCode\\ex_starts\\ch07_ex1_TipCalculator\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //This background is by no means dark
+    //It's slightly dimmer than the other back ground.
+    //I'm not sure why it's called 'dark'
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar" />
+</resources>
